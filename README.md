@@ -32,4 +32,14 @@ Habilidades
 </br>
 </br>
 [![Angular](https://img.shields.io/badge/-gray?logo=angular&label=Angular&logoColor=Red&labelColor=red&color=red)]()
+</br>
+</br>
+[![MySQL](https://img.shields.io/badge/-gray?logo=mysql&label=MySQL&logoColor=white&labelColor=rgb(54%2097%20129)&color=rgb(54%2097%20129))]()
+
+[![SQL Server](https://img.shields.io/badge/-gray?logo=microsoftsqlserver&label=SQL%20Server&logoColor=white&labelColor=rgb(192%2046%2046)&color=rgb(192%2046%2046))]()
+
+[![SQLite](https://img.shields.io/badge/-gray?logo=sqlite&label=SQL%20Server&logoColor=white&labelColor=rgb(1%2058%2087)&color=rgb(1%2058%2087))]()
+
+
+
 
