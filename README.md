@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Soy desarrollador web (mas de un año) y movil (menos de un año). Actualmente estoy aprendiendo Kotlin para aplicarlo a mis desarrollos moviles usando buenas practicas, patrones de diseño y arquitecturas adecuadas respetando los principios solid.
-Pueden encontrarme en mi [linkedin] (https://www.linkedin.com/in/johan-ferney-viancha-abril-a95bb8177)
+
+Habilidades
+https://img.shields.io/endpoint?url=<URL>&style<STYLE>
+
