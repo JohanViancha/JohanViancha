@@ -43,6 +43,8 @@ Contacto
 </br>
 [![Linkedin](https://img.shields.io/badge/-gray?logo=linkedin&label=Perfil%20de%20Linkedin&logoColor=white&labelColor=rgb(10%20102%20194)&color=rgb(10%20102%20194))](https://www.linkedin.com/in/johan-ferney-viancha-abril-a95bb8177/)
 
+[![Linkedin](https://img.shields.io/badge/-gray?logo=linkedin&label=Enviar%20correo&logoColor=white&labelColor=rgb(221%2078%2062)&color=rgb(221%2078%2062))](mailto:vianchajohan@gmailcom)
+
 
 
 
