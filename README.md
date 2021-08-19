@@ -29,9 +29,7 @@ Habilidades
 </br>
 </br>
 [![Javascript](https://img.shields.io/badge/-gray?logo=javascript&label=Javascript&color=yellow)]()
-[![Angular](https://img.shields.io/badge/-gray?logo=angular&label=Angular&logoColor=Red&labelColor=red&color=red)]()
-[![Node](https://img.shields.io/badge/-gray?logo=node&label=Angular&logoColor=Green&labelColor=white&color=white)]()
-
+[![Node](https://img.shields.io/badge/-gray?logo=Node.js&label=Node&logoColor=white&labelColor=green&color=green)]()
 </br>
 </br>
 [![Angular](https://img.shields.io/badge/-gray?logo=angular&label=Angular&logoColor=Red&labelColor=red&color=red)]()
