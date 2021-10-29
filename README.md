@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy desarrollador web (mas de un año) y movil (menos de un año). Actualmente estoy aprendiendo Kotlin para aplicarlo a mis desarrollos moviles usando buenas practicas, patrones de diseño y arquitecturas adecuadas respetando los principios solid.
+Soy desarrollador web (mas de un año) y movil (menos de un año). Actualmente estoy aprendiendo Node.js para aplicarlo a mis desarrollos fullstack usando buenas practicas, patrones de diseño y arquitecturas adecuadas respetando los principios solid.
 
 Habilidades
 </br>
