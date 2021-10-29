@@ -25,14 +25,13 @@ Habilidades
 [![Bootstrap](https://img.shields.io/badge/-gray?logo=bootstrap&label=Bootstrap&logoColor=white&labelColor=purple&color=purple)]()
 </br>
 </br>
-[![Android](https://img.shields.io/badge/Android-Java%20y%20Kotlin-green?logo=android&label=Android)]()
-</br>
-</br>
 [![Javascript](https://img.shields.io/badge/-gray?logo=javascript&label=Javascript&color=yellow)]()
 [![Node](https://img.shields.io/badge/-gray?logo=Node.js&label=Node&logoColor=white&labelColor=green&color=green)]()
+[![jQuery](https://img.shields.io/badge/-gray?logo=jquery&label=jQuery&logoColor=white&labelColor=blue&color=blue)]()
 </br>
 </br>
 [![Angular](https://img.shields.io/badge/-gray?logo=angular&label=Angular&logoColor=Red&labelColor=red&color=red)]()
+[![Php](https://img.shields.io/badge/-gray?logo=php&label=jQuery&logoColor=white&labelColor=blue&color=blue)]()
 </br>
 </br>
 [![MySQL](https://img.shields.io/badge/-gray?logo=mysql&label=MySQL&logoColor=white&labelColor=rgb(54%2097%20129)&color=rgb(54%2097%20129))]()
