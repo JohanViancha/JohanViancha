@@ -1,6 +1,6 @@
 ### Hola, soy Johan Viancha 👋
 
-Soy desarrollador frontend con más de dos añow de experiencia en Angular 10+ implementando los diferentes conceptos del framework como lazy loading, manejo de rutas, consumo de API, distribución modular, manejo de formularios reactivos, protección de rutas, etc. Además me fundamento en realizar interfaces completamente funcionales, adaptativas y navegables de manera que sea sencillo y simple para el usuario.
+Soy desarrollador frontend con más de un año de experiencia en Angular 10+ implementando los diferentes conceptos del framework como lazy loading, manejo de rutas, consumo de API, distribución modular, manejo de formularios reactivos, protección de rutas, etc. Además me fundamento en realizar interfaces completamente funcionales, adaptativas y navegables de manera que sea sencillo y simple para el usuario.
 Actualmente me encuentro ampliando mis conocimientos en javascript y estoy aprendiendo React y Node.js para aplicarlo a mis desarrollos fullstack usando buenas prácticas, patrones de diseño y arquitecturas adecuadas respetando los principios solid.
 
 Tengo más de dos años de experiencia en pruebas funcionales, en modelado y en el manejo del lenguaje DML, DDL Y TCL de base de datos relacionales como SQL Server, MySQL, SQLite y PostgrSQL .
