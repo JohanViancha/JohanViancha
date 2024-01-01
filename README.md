@@ -19,6 +19,8 @@ Habilidades
 </br>
 </br>
 [![Angular](https://img.shields.io/badge/-gray?logo=angular&label=Angular&logoColor=Red&labelColor=red&color=red)]()
+[![Angular](https://img.shields.io/badge/-gray?logo=react&label=React&logoColor=Red&labelColor=red&color=blue)]()
+
 [![Php](https://img.shields.io/badge/-gray?logo=php&label=jQuery&logoColor=white&labelColor=blue&color=blue)]()
 </br>
 </br>
