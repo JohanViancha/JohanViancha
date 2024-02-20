@@ -1,7 +1,6 @@
 ### Hola, soy Johan Viancha 👋
 
-Soy desarrollador frontend con más de dos años de experiencia creando aplicaciones web con React Y Angular. Durante estos años he venido implementando los diferentes conceptos de estos framework como lazy loading, manejo de rutas, manejo de estado, redux, consumo de API, distribución modular, manejo de formularios reactivos, protección de rutas, rxjs, etc. Además me fundamento en realizar interfaces completamente funcionales, adaptativas y navegables de manera que sea sencillo y simple para el usuario.
-Actualmente me encuentro ampliando mis conocimientos en javascript y estoy aprendiendo React y Node.js para aplicarlo a mis desarrollos fullstack usando buenas prácticas, patrones de diseño y arquitecturas adecuadas respetando los principios solid.
+Soy desarrollador frontend con más de dos años de experiencia y con habilidades sólidas en el desarrollo de software. Actualmente, estoy cursando el decimo semestre de Ingeniería de Sistemas, combinando mi conocimiento práctico con una base académica sólida. Mi experiencia incluye la creación de aplicaciones web de alta calidad utilizando tecnologías como HTML5, CSS3, SASS, Angular y React. Además, he trabajado en el backend con Node.js y tengo experiencia en la implementación de patrones de diseño y prácticas de código limpio. 
 
 Tengo más de dos años de experiencia en pruebas funcionales, en modelado y en el manejo del lenguaje DML, DDL Y TCL de base de datos relacionales como SQL Server, MySQL, SQLite y PostgrSQL .
 
