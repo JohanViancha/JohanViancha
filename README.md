@@ -1,6 +1,6 @@
 ### Hola, soy Johan Viancha 👋
 
-Soy desarrollador frontend con más de dos años de experiencia y con habilidades sólidas en el desarrollo de software. Actualmente, estoy cursando el decimo semestre de Ingeniería de Sistemas, combinando mi conocimiento práctico con una base académica sólida. Mi experiencia incluye la creación de aplicaciones web de alta calidad utilizando tecnologías como HTML5, CSS3, SASS, Angular y React. Además, he trabajado en el backend con Node.js y tengo experiencia en la implementación de patrones de diseño y prácticas de código limpio. 
+Soy desarrollador frontend con más de tres años de experiencia y con habilidades sólidas en el desarrollo de software. Actualmente, estoy cursando el decimo semestre de Ingeniería de Sistemas, combinando mi conocimiento práctico con una base académica sólida. Mi experiencia incluye la creación de aplicaciones web de alta calidad utilizando tecnologías como HTML5, CSS3, SASS, Angular y React. Además, he trabajado en el backend con Node.js y tengo experiencia en la implementación de patrones de diseño y prácticas de código limpio. 
 
 Tengo más de dos años de experiencia en pruebas funcionales, en modelado y en el manejo del lenguaje DML, DDL Y TCL de base de datos relacionales como SQL Server, MySQL, SQLite y PostgrSQL .
 
