@@ -41,7 +41,7 @@ Contacto
 
 [![Linkedin](https://img.shields.io/badge/-gray?logo=gmail&label=Enviar%20correo&logoColor=white&labelColor=rgb(221%2078%2062)&color=rgb(221%2078%2062))](mailto:vianchajohan@gmailcom)
 
-[![Portafolio](https://img.shields.io/badge/-gray?logo=googlechrome&label=Ver%20Portafolio&logoColor=white&labelColor=green&color=green)](hhps://johanviancha.com)
+[![Portafolio](https://img.shields.io/badge/-gray?logo=googlechrome&label=Ver%20Portafolio&logoColor=white&labelColor=green&color=green)](https://johanviancha.com)
 
 
 
