@@ -22,7 +22,7 @@
 
 ```ts
 const johan = {
-  rol:          "Full Stack Developer (Semi-Senior)",
+  rol:          "Full Stack Developer Senior",
   ubicacion:    "Colombia 🇨🇴 — abierto a trabajo remoto 🌎",
   fuerte:       ["Frontend architecture", "APIs REST", "Apps end-to-end"],
   ahoraMismo:   ["Agentes de IA", "LLMs en producción", "Automatización inteligente"],
